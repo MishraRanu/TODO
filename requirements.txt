@@ -45,7 +45,7 @@ premailer==3.9.0
 protobuf==3.18.0
 psycopg2==2.9.1
 pya==0.4.2
-PyAudio @file:///C:/Users/ranum/Downloads/PyAudio-0.2.11-cp39-cp39-win_amd64.whl
+
 PyDictionary==2.0.1
 pyjsparser==2.7.1
 pyparsing==2.4.7
